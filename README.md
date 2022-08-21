@@ -1,16 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Prakhar Varshney</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharxvarshney&label=Profile%20views&color=0e75b6&style=flat" alt="prakharxvarshney" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharxvarshney" alt="prakharxvarshney" /></a> </p>
+<img align="right" alt="coding" width="409" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **E-Commerce Website**
 
 - 🌱 I’m currently learning **React, JavaScript**
 
@@ -18,7 +11,6 @@
 
 - 📫 How to reach me **prakhar.varshney200004@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakharxvarshney&show_icons=true&locale=en&layout=compact" alt="prakharxvarshney" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharxvarshney&show_icons=true&locale=en" alt="prakharxvarshney" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharxvarshney&" alt="prakharxvarshney" /></p>
