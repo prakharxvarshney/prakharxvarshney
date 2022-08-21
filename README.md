@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Varshney</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharxvarshney&label=Profile%20views&color=0e75b6&style=flat" alt="prakharxvarshney" /> </p>
 
 <img align="right" alt="coding" width="409" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
