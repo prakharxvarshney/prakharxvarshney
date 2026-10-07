@@ -79,6 +79,15 @@ prakhar = {
 
 ---
 
+## 🐍 Contribution Snake
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakharxvarshney/prakharxvarshney/output/github-snake-dark.svg" />
+      <img alt="snake" src="https://raw.githubusercontent.com/prakharxvarshney/prakharxvarshney/output/github-snake.svg" />
+    </picture>
+  </p>
+
 ## 🌐 Let's Connect
 
 <p align="center">
